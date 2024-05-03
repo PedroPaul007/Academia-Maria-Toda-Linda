@@ -100,7 +100,7 @@ i {
   content: ""; /*#Ou seja aqui não terá nenhum conteúdo*/
   display: block;
   position: absolute;
-  background-image: linear-gradient(to bottom, rgba(6, 18, 30, 0.1), #030a11), url("../assets//foto-academia01.jpg"); /*#O gradiente é porque vai ser uma imagem que se funde com outra imagem*/
+  background-image: linear-gradient(to bottom, rgba(6, 18, 30, 0.1), #030a11), url("../assets//frente-academia.jpg"); /*#O gradiente é porque vai ser uma imagem que se funde com outra imagem*/
   left: 0;
   top: 0;
   width: 100%;
