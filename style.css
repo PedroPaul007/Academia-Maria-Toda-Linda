@@ -300,6 +300,15 @@ i {
   color: #FFF;
 }
 
+.copyright {
+  color: #FFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 54px 14px;
+}
+
 .btn-whatsapp {
   position: fixed;
   bottom: 14px;

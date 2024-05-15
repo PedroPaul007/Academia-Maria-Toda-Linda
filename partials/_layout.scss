@@ -255,6 +255,15 @@ to{
   color: $white-normal;
 }
 
+.copyright{
+  color: $white-normal;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 54px 14px;
+}
+
 // --------------------
 // ---- Por padrão o icone e os objetos de um site ele ficam em posições estáticas mas no caso do nosso whatsapp ele precisará acompanhar por onde puxarmos ele continuará, para uma posição fixa flutuando sobre todos os elementos.
 // Botao whatsapp
